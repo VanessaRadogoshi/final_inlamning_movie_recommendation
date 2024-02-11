@@ -1,6 +1,1 @@
-This is my movie recommendation app.
-
-Installations/Packages: 
-pandas, numpy, jupyter, spacy, en_core_web_lg
-
-Working with two terminals (local and Git Bash)
+My documentation is on a word file, which I will uppload to the inlämning on learnpoint, since the text is very long.
